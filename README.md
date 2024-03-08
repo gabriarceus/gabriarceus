@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Graduate student at University of Udine, interested in iOS development and IoT projects.
+I'm a graduate student at University of Udine, interested in iOS development and IoT projects.
 
 <!--
 **gabriarceus/gabriarceus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
